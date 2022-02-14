@@ -178,6 +178,7 @@ export class AppModule { }
 ~~~
 
 ## OUTPUT:
+![output](https://github.com/charansai0/AngularCalculation/blob/main/ang.jpeg?raw=true)
 
 ### Home Page:
 
