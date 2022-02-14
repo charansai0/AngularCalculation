@@ -39,7 +39,7 @@ Publish the website in the given URL.
             <Cylinder-Area></Cylinder-Area>
         </div>
         <div class="footer">
-            Developed by: Manoj Guna Sundar Tella
+            Developed by: v.charan sai
         </div>
     </div>
 </body>
